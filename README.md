@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#FF69B4;">Начинающий разработчик | Увлекаюсь программированием и дизайном</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=440&height=60&lines=Добро+пожаловать+на+мой+GitHub!;Изучаю+Java+углубленно;Работаю+над+собой+каждый+день!;Люблю+кодить+и+создавать+дизайны!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=60&lines=Добро+пожаловать+на+мой+GitHub!;Изучаю+Java+углубленно;Работаю+над+собой+каждый+день!;Люблю+кодить+и+создавать+дизайны!">
 </p>
 
 ---
