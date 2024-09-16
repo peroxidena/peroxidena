@@ -83,10 +83,11 @@
 
 ### 📬 Контакты:
 <p align="center">
-  <a href="https://github.com/[ВашGitHubЛогин]">
-    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://vk.com/peroxidena">
+    <img src="https://img.shields.io/badge/VK-FF69B4?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
-  <a href="mailto:[ВашEmail]">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://t.me/peroxidena">
+    <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
+
