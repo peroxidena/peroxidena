@@ -67,14 +67,6 @@
 
 ---
 
-### 📊 Моя статистика на GitHub:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ВашGitHubЛогин]&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ВашGitHubЛогин]&theme=radical&background=141321&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🧠 Текущие цели:
 - Изучить Java как основной язык программирования.
 - Развиваться в области веб-разработки (HTML, CSS, JavaScript).
