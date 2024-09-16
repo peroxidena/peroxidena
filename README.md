@@ -67,7 +67,7 @@
 
 ### ✍️ Цитата дня:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="Цитата на русском языке" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="ЦСОСАТЬ + ЛЕЖАЬБитата на русском языке" />
 </p>
 
 ---
