@@ -18,25 +18,51 @@
 
 ### ✨ Навыки и инструменты:
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://gradle.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  </a>
 </p>
 
 ---
 
 ### 💡 Технологии, которые мне интересны:
 <p align="center">
-  <img src="https://img.shields.io/badge/NMS-FF69B4?style=for-the-badge&logo=minecraft&logoColor=white" alt="NMS" />
-  <img src="https://img.shields.io/badge/OpenGL-FF69B4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Backend-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Backend" />
+  <a href="https://hub.spigotmc.org/javadocs/spigot/" target="_blank">
+    <img src="https://img.shields.io/badge/NMS-FF69B4?style=for-the-badge&logo=minecraft&logoColor=white" alt="NMS" />
+  </a>
+  <a href="https://www.opengl.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenGL-FF69B4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-FF69B4?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
+  </a>
 </p>
 
 ---
