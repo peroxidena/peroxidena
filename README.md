@@ -67,7 +67,7 @@
 
 ### ✍️ Цитата дня:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=FF69B4" alt="Quote" />
 </p>
 
 ---
