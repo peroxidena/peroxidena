@@ -1,4 +1,4 @@
-<h1 align="center">Привет! 👋 Меня зовут [Ваше Имя]</h1>
+<h1 align="center">Привет! 👋 Меня зовут Владимир</h1>
 <h3 align="center" style="color:#FF69B4;">Начинающий разработчик | Увлекаюсь программированием и дизайном</h3>
 
 <p align="center">
