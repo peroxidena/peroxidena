@@ -76,7 +76,7 @@
 
 ### ✍️ Цитата дня:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=FF69B4" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="Цитата на русском языке" />
 </p>
 
 ---
@@ -90,4 +90,3 @@
     <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-
